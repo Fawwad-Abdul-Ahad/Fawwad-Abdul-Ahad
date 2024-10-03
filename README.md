@@ -47,7 +47,4 @@ src="https://img.shields.io/github/followers/Fawwad-Abdul-Ahad?logo=github&style
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/fawwad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
 </ul>
