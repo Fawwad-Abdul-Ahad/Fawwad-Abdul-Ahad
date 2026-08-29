@@ -1,202 +1,226 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0e7490&height=200&section=header&text=Fawwad%20Abdul%20Ahad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20AI%20Developer&descAlignY=58&descSize=18&descColor=bae6fd" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=MERN+Stack+%7C+Flutter+%7C+AI%2FML+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Express;HuggingFace+%7C+TensorFlow+%7C+LangChain;Computer+Vision+%7C+YOLO+%7C+DINOv2;Building+intelligent+full-stack+products)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fawwad-abdulahad-761816291)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawwadabdulahad@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://fawwad-personal-portfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fawwad-Abdul-Ahad)
-
-<img src="https://komarev.com/ghpvc/?username=Fawwad-Abdul-Ahad&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile views" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```typescript
-const fawwad = {
-  role:       "Full Stack Web & AI Developer",
-  company:    "Synapse Tech Inc. — Karachi, Pakistan",
-  education:  "BSc Software Engineering @ University of Karachi (2024–2028)",
-  stacks:     ["MERN", "Next.js", "Flutter", "FastAPI", "LangGraph"],
-  ai_ml:      ["HuggingFace Transformers", "TensorFlow/Keras", "NLP", "Deep Learning", "Computer Vision"],
-  cv_tools:   ["YOLO", "DINOv2", "ONNX", "HSV", "pgvector", "Siamese Networks"],
-  databases:  ["MongoDB", "PostgreSQL", "Firebase", "MySQL"],
-  cloud:      ["AWS S3", "Vercel", "Firebase Hosting"],
-  currently:  "Shipping AI-powered products end-to-end 🚀",
-  available:  true,
-};
+```
+███████╗ █████╗ ██╗    ██╗██╗    ██╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██║    ██║██║    ██║██╔══██╗██╔══██╗
+█████╗  ███████║██║ █╗ ██║██║ █╗ ██║███████║██║  ██║
+██╔══╝  ██╔══██║██║███╗██║██║███╗██║██╔══██║██║  ██║
+██║     ██║  ██║╚███╔███╔╝╚███╔███╔╝██║  ██║██████╔╝
+╚═╝     ╚═╝  ╚═╝ ╚══╝╚══╝  ╚══╝╚══╝╚═╝  ╚═╝╚═════╝ 
 ```
 
-> Results-driven developer who bridges **modern web & mobile development** with **intelligent AI systems** — from responsive React/Flutter UIs and robust Node.js APIs, to deep learning pipelines, NLP chatbots, and transformer-based models.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=%24+whoami+--+Full+Stack+%26+AI+Developer;%24+stack+--+MERN+%7C+Flutter+%7C+AI%2FML;%24+skills+--+HuggingFace+%7C+TensorFlow+%7C+YOLO;%24+vision+--+Computer+Vision+%7C+DINOv2+%7C+NLP;%24+status+--+Building+intelligent+products+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### AI / ML & NLP
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Tools & Practices
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=Fawwad-Abdul-Ahad&label=visitors&color=00ff41&style=flat-square&labelColor=0d1117" />
 
 </div>
 
 ---
 
-## 💼 Experience
+```bash
+┌──(fawwad㉿dev)-[~]
+└─$ cat whoami.txt
+```
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Synapse Tech Inc.
-**Full Stack Web & AI Developer** · *Jun 2025 – Present*
-
-- 🛒 Architected full-featured eCommerce app (React + Node.js) + Flutter companion app — solo
-- 🤖 Deployed NLP chatbot using HuggingFace transformer models for automated customer support
-- 🧠 Built deep learning recommendation & forecasting modules (TensorFlow/Keras)
-- ☁️ Integrated AWS S3 for storage, Vercel for CI/CD, JWT for auth
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 110 Solutions
-**Full Stack Developer** · *Oct 2024 – Jun 2025*
-
-- 📱 Built cross-platform Flutter apps: Chat App, Food Delivery App, Product Scanning App
-- 🌐 Developed iRecruit (React.js + Node.js APIs) & Opira AI assistant (Next.js + OpenAI)
-- 🔐 Implemented JWT auth & role-based access control across multiple platforms
-- ⚡ Agile sprints, code reviews, API documentation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Renexus Resources
-**Frontend & Flutter Developer** · *Sep 2024 – Oct 2024*
-
-- 🚗 Built Uber-like ride-hailing app in Flutter with real-time location tracking
-- 🚌 Developed ChaloBetho — carpooling app with live map integration
-- 🎨 Converted Figma designs into pixel-perfect React & Flutter UIs
-- 🔗 Integrated REST APIs with Python/Laravel backends
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Education
-**BSc Software Engineering**
-University of Karachi · *2024 – 2028*
-
-**Pre-Engineering**
-DJ Science College, Karachi · *2022 – 2024*
-
-**Certifications**
-- 🏅 Flutter Development — Jawan Pakistan
-
-</td>
-</tr>
-</table>
+```
+  NAME     : Fawwad Abdul Ahad
+  ROLE     : Full Stack Web & AI Developer
+  COMPANY  : Synapse Tech Inc. — Karachi, Pakistan
+  DEGREE   : BSc Software Engineering @ University of Karachi (2024–2028)
+  EMAIL    : fawwadabdulahad@gmail.com
+  STATUS   : [■■■■■■■■■■] AVAILABLE FOR WORK
+```
 
 ---
 
-## 🚀 Featured Projects
+```bash
+┌──(fawwad㉿dev)-[~]
+└─$ cat profile.json
+```
+
+```json
+{
+  "stacks"    : ["MERN", "Next.js", "Flutter", "FastAPI", "LangGraph"],
+  "ai_ml"     : ["HuggingFace Transformers", "TensorFlow/Keras", "NLP", "Deep Learning", "Computer Vision"],
+  "cv_tools"  : ["YOLO", "DINOv2", "ONNX", "HSV", "pgvector", "Siamese Networks"],
+  "databases" : ["MongoDB", "PostgreSQL", "Firebase", "MySQL"],
+  "cloud"     : ["AWS S3", "Vercel", "Firebase Hosting"],
+  "available" : true
+}
+```
+
+---
+
+```bash
+┌──(fawwad㉿dev)-[~]
+└─$ ls -la skills/
+```
+
+```
+drwxr-xr-x  languages/
+drwxr-xr-x  frontend-mobile/
+drwxr-xr-x  backend/
+drwxr-xr-x  ai-ml-cv/
+drwxr-xr-x  databases-cloud/
+drwxr-xr-x  tools/
+```
 
 <div align="center">
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **🏟️ Football Match Detection** | YOLO · DINOv2 · ONNX · HSV · pgvector · Siamese Head | Computer vision pipeline for real-time football match analysis — YOLO detects players/ball, DINOv2 extracts visual embeddings, HSV colour features for team separation, pgvector stores & retrieves embedding vectors, Siamese head trained for accurate player re-identification |
-| **🛒 eCommerce Platform** | React.js · Node.js · Flutter · MongoDB · AWS S3 | Full-stack web + mobile eCommerce with JWT auth, product management, and CI/CD |
-| **🤖 NLP Chatbot** | Python · HuggingFace · Flask · React.js | Fine-tuned transformer chatbot with intent classification, NER & multi-turn dialogue |
-| **🧠 iRecruit** | React.js · Node.js · Laravel | Recruitment automation platform with dynamic dashboards and API-driven data flow |
-| **💬 Opira AI Assistant** | Next.js · Node.js · OpenAI API | ChatGPT-like AI chat app with message streaming and real-time conversational AI |
-| **🗣️ Conversaction.ai** | React.js · Python · Laravel | AI-powered conversation workflow web app with API-integrated backend |
-| **📦 Deep Learning Rec. Engine** | Python · TensorFlow · MongoDB | Collaborative filtering + content-based deep learning model for product recommendations |
-| **🛍️ Qist Bazar** *(Live on Play Store)* | Flutter · Firebase | Instalment-based shopping app with Firebase auth and payment plan calculator |
-| **🚗 ChaloBetho** | Flutter · REST APIs | Carpooling app with live map, seat selection, and driver/rider role management |
+### `> languages`
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41)
+
+### `> frontend-mobile`
+![React](https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=00FF41)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=00FF41)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00FF41)
+
+### `> backend`
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00FF41)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=00FF41)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=00FF41)
+
+### `> ai-ml-cv`
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00FF41)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00FF41)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=00FF41)
+![YOLO](https://img.shields.io/badge/YOLO-0d1117?style=for-the-badge&logo=opencv&logoColor=00FF41)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=00FF41)
+![ONNX](https://img.shields.io/badge/ONNX-0d1117?style=for-the-badge&logo=onnx&logoColor=00FF41)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=00FF41)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00FF41)
+
+### `> databases-cloud`
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00FF41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=00FF41)
+![AWS S3](https://img.shields.io/badge/AWS_S3-0d1117?style=for-the-badge&logo=amazons3&logoColor=00FF41)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=00FF41)
+
+### `> tools`
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FF41)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=00FF41)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+```bash
+┌──(fawwad㉿dev)-[~]
+└─$ cat experience.log
+```
+
+```
+[2025-06 → NOW]  ████ Synapse Tech Inc. — Full Stack Web & AI Developer
+                 ├── Architected eCommerce app (React + Node.js) + Flutter companion — solo dev
+                 ├── Deployed NLP chatbot via HuggingFace transformers (automated support)
+                 ├── Built deep learning recommendation & demand forecasting (TensorFlow/Keras)
+                 └── AWS S3 storage | Vercel CI/CD | JWT auth | REST API design
+
+[2024-10 → 2025-06]  ██ 110 Solutions — Full Stack Developer
+                 ├── Flutter apps: Chat App, Food Delivery, Product Scanning App
+                 ├── iRecruit (React.js + Node.js) — recruitment automation platform
+                 ├── Opira (Next.js + OpenAI API) — ChatGPT-like AI assistant
+                 └── JWT auth | RBAC | Agile sprints | Code reviews
+
+[2024-09 → 2024-10]  █ Renexus Resources — Frontend & Flutter Developer
+                 ├── Uber-like ride-hailing app in Flutter (real-time location tracking)
+                 ├── ChaloBetho — carpooling app with live map integration
+                 └── Figma → pixel-perfect React & Flutter UIs | REST API integration
+```
+
+---
+
+```bash
+┌──(fawwad㉿dev)-[~]
+└─$ ls -la projects/ --sort=impact
+```
+
+```
+total 9 projects
+```
+
+| `PROJECT` | `STACK` | `DESCRIPTION` |
+|-----------|---------|---------------|
+| 🏟️ **Football Match Detection** | `YOLO · DINOv2 · ONNX · HSV · pgvector · Siamese Head` | CV pipeline: YOLO detects players/ball → DINOv2 extracts embeddings → HSV separates teams by colour → pgvector stores & retrieves vectors → Siamese head trained for accurate player re-ID |
+| 🛒 **eCommerce Platform** | `React.js · Node.js · Flutter · MongoDB · AWS S3` | Full-stack web + mobile eCommerce — JWT auth, product management, CI/CD |
+| 🤖 **NLP Chatbot** | `Python · HuggingFace · Flask · React.js` | Fine-tuned transformer chatbot with intent classification, NER & multi-turn dialogue |
+| 🧠 **iRecruit** | `React.js · Node.js · Laravel` | Recruitment automation platform with dynamic dashboards and API-driven data flow |
+| 💬 **Opira AI Assistant** | `Next.js · Node.js · OpenAI API` | ChatGPT-like AI chat app with message streaming and real-time conversational AI |
+| 🗣️ **Conversaction.ai** | `React.js · Python · Laravel` | AI-powered conversation workflow web app with API-integrated backend |
+| 📦 **Deep Learning Rec. Engine** | `Python · TensorFlow · MongoDB` | Collaborative filtering + content-based deep learning model for product recommendations |
+| 🛍️ **Qist Bazar** *(Play Store)* | `Flutter · Firebase` | Instalment-based shopping app with Firebase auth and payment plan calculator |
+| 🚗 **ChaloBetho** | `Flutter · REST APIs` | Carpooling app with live map, seat selection, and driver/rider role management |
+
+---
+
+```bash
+┌──(fawwad㉿dev)-[~]
+└─$ neofetch --stats
+```
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fawwad-Abdul-Ahad&show_icons=true&count_private=true&title_color=0891b2&text_color=e2e8f0&icon_color=0891b2&bg_color=0f172a&hide_border=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawwad-Abdul-Ahad&langs_count=8&layout=compact&title_color=0891b2&text_color=e2e8f0&icon_color=0891b2&bg_color=0f172a&hide_border=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Fawwad-Abdul-Ahad&show_icons=true&count_private=true&title_color=00FF41&text_color=00FF41&icon_color=00FF41&bg_color=0d1117&hide_border=false&border_color=00FF41&include_all_commits=true&cache_seconds=1800" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawwad-Abdul-Ahad&langs_count=8&layout=compact&title_color=00FF41&text_color=00FF41&icon_color=00FF41&bg_color=0d1117&hide_border=false&border_color=00FF41&cache_seconds=1800" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fawwad-Abdul-Ahad&stroke=e2e8f0&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=e2e8f0&currStreakLabel=0891b2&sideNums=e2e8f0&sideLabels=e2e8f0&dates=94a3b8&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Fawwad-Abdul-Ahad&theme=dark&background=0d1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=00b32d&dates=00b32d&hide_border=false&stroke=00FF41" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+```bash
+┌──(fawwad㉿dev)-[~]
+└─$ cat education.txt
+```
 
-<div align="center">
+```
+[2024 → 2028]  BSc Software Engineering  |  University of Karachi (UBIT)
+[2022 → 2024]  Pre-Engineering           |  DJ Science College, Karachi
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Fawwad-Abdul-Ahad&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
+CERTIFICATIONS:
+  [✓]  Flutter Development — Jawan Pakistan
 
-</div>
+LANGUAGES:
+  [✓]  English — Fluent
+  [✓]  Urdu   — Fluent
+```
 
 ---
 
+```bash
+┌──(fawwad㉿dev)-[~]
+└─$ echo "Thanks for visiting. Let's build something extraordinary."
+```
+
+```
+Thanks for visiting. Let's build something extraordinary.
+```
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:0891b2&height=120&section=footer&text=Let%27s%20build%20something%20extraordinary&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+`📍 Karachi, Pakistan` &nbsp;|&nbsp; `📧 fawwadabdulahad@gmail.com` &nbsp;|&nbsp; `🟢 Open to collaborations`
 
-**📍 Karachi, Pakistan &nbsp;|&nbsp; 📧 fawwadabdulahad@gmail.com &nbsp;|&nbsp; 🌐 Open to collaborations & opportunities**
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)
+![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)
+![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)
 
 </div>
+
+```
+[session closed]
+```
