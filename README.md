@@ -1,15 +1,24 @@
 <div align="center">
 
 <pre>
-                    ███████╗ █████╗ ██╗    ██╗██╗    ██╗ █████╗ ██████╗ 
-                    ██╔════╝██╔══██╗██║    ██║██║    ██║██╔══██╗██╔══██╗
-                    █████╗  ███████║██║ █╗ ██║██║ █╗ ██║███████║██║  ██║
-                    ██╔══╝  ██╔══██║██║███╗██║██║███╗██║██╔══██║██║  ██║
-                    ██║     ██║  ██║╚███╔███╔╝╚███╔███╔╝██║  ██║██████╔╝
-                    ╚═╝     ╚═╝  ╚═╝ ╚══╝╚══╝  ╚══╝╚══╝╚═╝  ╚═╝╚═════╝ 
+███████╗ █████╗ ██╗    ██╗██╗    ██╗ █████╗ ██████╗      █████╗ ██████╗ ██████╗ ██╗   ██╗██╗          █████╗ ██╗  ██╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██║    ██║██║    ██║██╔══██╗██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗██║   ██║██║         ██╔══██╗██║  ██║██╔══██╗██╔══██╗
+█████╗  ███████║██║ █╗ ██║██║ █╗ ██║███████║██║  ██║    ███████║██████╔╝██║  ██║██║   ██║██║         ███████║███████║███████║██║  ██║
+██╔══╝  ██╔══██║██║███╗██║██║███╗██║██╔══██║██║  ██║    ██╔══██║██╔══██╗██║  ██║██║   ██║██║         ██╔══██║██╔══██║██╔══██║██║  ██║
+██║     ██║  ██║╚███╔███╔╝╚███╔███╔╝██║  ██║██████╔╝    ██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗    ██║  ██║██║  ██║██║  ██║██████╔╝
+╚═╝     ╚═╝  ╚═╝ ╚══╝╚══╝  ╚══╝╚══╝╚═╝  ╚═╝╚═════╝     ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ 
 </pre>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=%24+whoami+--+Flutter+%26+Full+Stack+Developer;%24+stack+--+Flutter+%7C+MERN+%7C+GenAI;%24+skills+--+LangChain+%7C+PyTorch+%7C+YOLO;%24+vision+--+Computer+Vision+%7C+DINOv2+%7C+NLP;%24+status+--+Building+high-performance+mobile+apps+%F0%9F%9F%A2)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Full+Stack+AI+Engineer+%7C+Flutter+Developer;LangChain+%7C+RAG+%7C+VectorDB+%7C+Transformers;Computer+Vision+%7C+YOLO+%7C+DINOv2+%7C+PyTorch;Building+Intelligent+Systems+%26+Mobile+Apps+%F0%9F%9F%A2)](https://git.io/typing-svg)
+
+<br/>
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <img src="https://komarev.com/ghpvc/?username=Fawwad-Abdul-Ahad&label=visitors&color=00ff41&style=flat-square&labelColor=0d1117" />
 
@@ -17,22 +26,47 @@
 
 ---
 
-## About Me
+<img align="right" width="340" src="https://raw.githubusercontent.com/Fawwad-Abdul-Ahad/Fawwad-Abdul-Ahad/main/assets/ai-coder.gif" alt="AI Engineer" />
 
-I'm **Fawwad Abdul Ahad**, an experienced Flutter Developer specialising in building high-performance, visually engaging mobile apps for iOS and Android. I bridge modern mobile and web development with intelligent AI systems — from pixel-perfect Flutter UIs and robust MERN APIs, to deep learning pipelines, NLP chatbots, and computer vision models.
+### `> whoami`
 
-Currently working at **Synapse Tech Inc., Karachi** · BSc Software Engineering @ University of Karachi (2024–2028)
+I'm **Fawwad Abdul Ahad**, a **Full Stack AI Engineer** and experienced Flutter Developer based in Karachi, Pakistan.
+
+I specialise in building **high-performance mobile apps** for iOS & Android and **intelligent AI systems** — from RAG pipelines and transformer-based NLP models, to computer vision and generative AI applications.
+
+I bridge the gap between cutting-edge AI research and production-ready software — shipping real-world products that are fast, scalable, and intelligent.
+
+Currently at **Synapse Tech Inc.** · BSc Software Engineering @ University of Karachi *(2024–2028)*
+
+<br clear="right"/>
 
 ---
 
-## Tech Stack
+### `> areas_of_expertise`
+
+```python
+expertise = {
+    "mobile"          : ["Flutter", "iOS", "Android", "GetX", "Provider"],
+    "web"             : ["React.js", "Next.js", "Node.js", "FastAPI"],
+    "ai_engineering"  : ["RAG Pipelines", "LangChain", "LangGraph", "VectorDB"],
+    "llm_&_genai"     : ["OpenAI API", "HuggingFace", "Transformers", "Prompt Engineering"],
+    "deep_learning"   : ["PyTorch", "TensorFlow", "NLP", "Text Classification", "NER"],
+    "computer_vision" : ["YOLO", "DINOv2", "OpenCV", "ONNX", "Siamese Networks"],
+    "databases"       : ["MongoDB", "PostgreSQL", "Firebase", "pgvector"],
+    "cloud"           : ["AWS S3", "Vercel", "Firebase Hosting"],
+}
+```
+
+---
+
+### `> tech_stack`
 
 **Languages**
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Mobile & Frontend**
@@ -50,7 +84,7 @@ Currently working at **Synapse Tech Inc., Karachi** · BSc Software Engineering 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-**AI · ML · GenAI · Computer Vision**
+**AI · GenAI · LLMs · Computer Vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -81,7 +115,7 @@ Currently working at **Synapse Tech Inc., Karachi** · BSc Software Engineering 
 
 ---
 
-## GitHub Stats
+### `> github_stats`
 
 <div align="center">
 
@@ -97,7 +131,7 @@ Currently working at **Synapse Tech Inc., Karachi** · BSc Software Engineering 
 
 ---
 
-## Education & Certifications
+### `> education`
 
 **BSc Software Engineering** — University of Karachi, UBIT · 2024–2028
 
@@ -111,9 +145,6 @@ Currently working at **Synapse Tech Inc., Karachi** · BSc Software Engineering 
 
 `📍 Karachi, Pakistan` &nbsp;|&nbsp; `📧 fawwadabdulahad@gmail.com` &nbsp;|&nbsp; `🟢 Open to collaborations`
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+*"Building intelligent systems that make a real-world impact."*
 
 </div>
