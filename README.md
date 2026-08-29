@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=MERN+Stack+%7C+Flutter+%7C+AI%2FML+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Express;HuggingFace+%7C+TensorFlow+%7C+LangChain;Building+intelligent+full-stack+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=MERN+Stack+%7C+Flutter+%7C+AI%2FML+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Express;HuggingFace+%7C+TensorFlow+%7C+LangChain;Computer+Vision+%7C+YOLO+%7C+DINOv2;Building+intelligent+full-stack+products)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,7 +27,8 @@ const fawwad = {
   company:    "Synapse Tech Inc. — Karachi, Pakistan",
   education:  "BSc Software Engineering @ University of Karachi (2024–2028)",
   stacks:     ["MERN", "Next.js", "Flutter", "FastAPI", "LangGraph"],
-  ai_ml:      ["HuggingFace Transformers", "TensorFlow/Keras", "NLP", "Deep Learning"],
+  ai_ml:      ["HuggingFace Transformers", "TensorFlow/Keras", "NLP", "Deep Learning", "Computer Vision"],
+  cv_tools:   ["YOLO", "DINOv2", "ONNX", "HSV", "pgvector", "Siamese Networks"],
   databases:  ["MongoDB", "PostgreSQL", "Firebase", "MySQL"],
   cloud:      ["AWS S3", "Vercel", "Firebase Hosting"],
   currently:  "Shipping AI-powered products end-to-end 🚀",
@@ -69,6 +70,9 @@ const fawwad = {
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -148,16 +152,17 @@ DJ Science College, Karachi · *2022 – 2024*
 
 <div align="center">
 
-| Project | Stack | Description | Link |
-|---------|-------|-------------|------|
-| **🛒 eCommerce Platform** | React.js · Node.js · Flutter · MongoDB · AWS S3 | Full-stack web + mobile eCommerce with JWT auth, product management, and CI/CD | — |
-| **🤖 NLP Chatbot** | Python · HuggingFace · Flask · React.js | Fine-tuned transformer chatbot with intent classification, NER & multi-turn dialogue | — |
-| **🧠 iRecruit** | React.js · Node.js · Laravel | Recruitment automation platform with dynamic dashboards and API-driven data flow | [i-recruit.io](https://i-recruit.io/) |
-| **💬 Opira AI Assistant** | Next.js · Node.js · OpenAI API | ChatGPT-like AI chat app with message streaming and real-time conversational AI | [opira.io](https://opira.io/home) |
-| **🗣️ Conversaction.ai** | React.js · Python · Laravel | AI-powered conversation workflow web app with API-integrated backend | [conversaction.io](https://conversaction.ai/) |
-| **📦 Deep Learning Rec. Engine** | Python · TensorFlow · MongoDB | Collaborative filtering + content-based deep learning model for product recommendations | — |
-| **🛍️ Qist Bazar** *(Live on Play Store)* | Flutter · Firebase | Instalment-based shopping app with Firebase auth and payment plan calculator | Play Store |
-| **🚗 ChaloBetho** | Flutter · REST APIs | Carpooling app with live map, seat selection, and driver/rider role management | — |
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **🏟️ Football Match Detection** | YOLO · DINOv2 · ONNX · HSV · pgvector · Siamese Head | Computer vision pipeline for real-time football match analysis — YOLO detects players/ball, DINOv2 extracts visual embeddings, HSV colour features for team separation, pgvector stores & retrieves embedding vectors, Siamese head trained for accurate player re-identification |
+| **🛒 eCommerce Platform** | React.js · Node.js · Flutter · MongoDB · AWS S3 | Full-stack web + mobile eCommerce with JWT auth, product management, and CI/CD |
+| **🤖 NLP Chatbot** | Python · HuggingFace · Flask · React.js | Fine-tuned transformer chatbot with intent classification, NER & multi-turn dialogue |
+| **🧠 iRecruit** | React.js · Node.js · Laravel | Recruitment automation platform with dynamic dashboards and API-driven data flow |
+| **💬 Opira AI Assistant** | Next.js · Node.js · OpenAI API | ChatGPT-like AI chat app with message streaming and real-time conversational AI |
+| **🗣️ Conversaction.ai** | React.js · Python · Laravel | AI-powered conversation workflow web app with API-integrated backend |
+| **📦 Deep Learning Rec. Engine** | Python · TensorFlow · MongoDB | Collaborative filtering + content-based deep learning model for product recommendations |
+| **🛍️ Qist Bazar** *(Live on Play Store)* | Flutter · Firebase | Instalment-based shopping app with Firebase auth and payment plan calculator |
+| **🚗 ChaloBetho** | Flutter · REST APIs | Carpooling app with live map, seat selection, and driver/rider role management |
 
 </div>
 
