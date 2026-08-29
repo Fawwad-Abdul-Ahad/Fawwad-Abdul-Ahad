@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝  ╚═╝ ╚══╝╚══╝  ╚══╝╚══╝╚═╝  ╚═╝╚═════╝ 
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=%24+whoami+--+Full+Stack+%26+AI+Developer;%24+stack+--+MERN+%7C+Flutter+%7C+AI%2FML;%24+skills+--+HuggingFace+%7C+TensorFlow+%7C+YOLO;%24+vision+--+Computer+Vision+%7C+DINOv2+%7C+NLP;%24+status+--+Building+intelligent+products+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=%24+whoami+--+Flutter+%26+Full+Stack+Developer;%24+stack+--+Flutter+%7C+MERN+%7C+AI%2FML;%24+skills+--+HuggingFace+%7C+TensorFlow+%7C+YOLO;%24+vision+--+Computer+Vision+%7C+DINOv2+%7C+NLP;%24+status+--+Building+high-performance+mobile+apps+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Fawwad-Abdul-Ahad&label=visitors&color=00ff41&style=flat-square&labelColor=0d1117" />
 
@@ -24,10 +24,15 @@
 
 ```
   NAME     : Fawwad Abdul Ahad
-  ROLE     : Full Stack Web & AI Developer
+  ROLE     : Flutter & Full Stack Web Developer | AI/ML Engineer
   COMPANY  : Synapse Tech Inc. — Karachi, Pakistan
   DEGREE   : BSc Software Engineering @ University of Karachi (2024–2028)
   EMAIL    : fawwadabdulahad@gmail.com
+  BIO      : Experienced Flutter Developer crafting high-performance, visually
+             engaging mobile apps for iOS & Android. I bridge modern mobile &
+             web development with intelligent AI systems — from pixel-perfect
+             Flutter UIs and robust MERN APIs, to deep learning pipelines,
+             NLP chatbots, and computer vision models.
   STATUS   : [■■■■■■■■■■] AVAILABLE FOR WORK
 ```
 
@@ -40,7 +45,8 @@
 
 ```json
 {
-  "stacks"    : ["MERN", "Next.js", "Flutter", "FastAPI", "LangGraph"],
+  "mobile"    : ["Flutter", "Dart", "GetX", "Provider", "MVC", "iOS", "Android"],
+  "web"       : ["React.js", "Next.js", "Node.js", "Express.js", "FastAPI"],
   "ai_ml"     : ["HuggingFace Transformers", "TensorFlow/Keras", "NLP", "Deep Learning", "Computer Vision"],
   "cv_tools"  : ["YOLO", "DINOv2", "ONNX", "HSV", "pgvector", "Siamese Networks"],
   "databases" : ["MongoDB", "PostgreSQL", "Firebase", "MySQL"],
@@ -56,28 +62,19 @@
 └─$ ls -la skills/
 ```
 
-```
-drwxr-xr-x  languages/
-drwxr-xr-x  frontend-mobile/
-drwxr-xr-x  backend/
-drwxr-xr-x  ai-ml-cv/
-drwxr-xr-x  databases-cloud/
-drwxr-xr-x  tools/
-```
-
 <div align="center">
 
 ### `> languages`
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00FF41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00FF41)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41)
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00FF41)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41)
 
-### `> frontend-mobile`
+### `> mobile & frontend`
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=00FF41)
 ![React](https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=00FF41)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=00FF41)
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=00FF41)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00FF41)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00FF41)
 
@@ -87,7 +84,7 @@ drwxr-xr-x  tools/
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00FF41)
 ![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=00FF41)
 
-### `> ai-ml-cv`
+### `> ai · ml · computer vision`
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00FF41)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00FF41)
 ![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=00FF41)
@@ -97,7 +94,7 @@ drwxr-xr-x  tools/
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=00FF41)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00FF41)
 
-### `> databases-cloud`
+### `> databases & cloud`
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00FF41)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=00FF41)
@@ -116,37 +113,11 @@ drwxr-xr-x  tools/
 
 ```bash
 ┌──(fawwad㉿dev)-[~]
-└─$ cat experience.log
-```
-
-```
-[2025-06 → NOW]  ████ Synapse Tech Inc. — Full Stack Web & AI Developer
-                 ├── Architected eCommerce app (React + Node.js) + Flutter companion — solo dev
-                 ├── Deployed NLP chatbot via HuggingFace transformers (automated support)
-                 ├── Built deep learning recommendation & demand forecasting (TensorFlow/Keras)
-                 └── AWS S3 storage | Vercel CI/CD | JWT auth | REST API design
-
-[2024-10 → 2025-06]  ██ 110 Solutions — Full Stack Developer
-                 ├── Flutter apps: Chat App, Food Delivery, Product Scanning App
-                 ├── iRecruit (React.js + Node.js) — recruitment automation platform
-                 ├── Opira (Next.js + OpenAI API) — ChatGPT-like AI assistant
-                 └── JWT auth | RBAC | Agile sprints | Code reviews
-
-[2024-09 → 2024-10]  █ Renexus Resources — Frontend & Flutter Developer
-                 ├── Uber-like ride-hailing app in Flutter (real-time location tracking)
-                 ├── ChaloBetho — carpooling app with live map integration
-                 └── Figma → pixel-perfect React & Flutter UIs | REST API integration
-```
-
----
-
-```bash
-┌──(fawwad㉿dev)-[~]
 └─$ ls -la projects/ --sort=impact
 ```
 
 ```
-total 9 projects
+total 8 projects
 ```
 
 | `PROJECT` | `STACK` | `DESCRIPTION` |
@@ -158,7 +129,6 @@ total 9 projects
 | 💬 **Opira AI Assistant** | `Next.js · Node.js · OpenAI API` | ChatGPT-like AI chat app with message streaming and real-time conversational AI |
 | 🗣️ **Conversaction.ai** | `React.js · Python · Laravel` | AI-powered conversation workflow web app with API-integrated backend |
 | 📦 **Deep Learning Rec. Engine** | `Python · TensorFlow · MongoDB` | Collaborative filtering + content-based deep learning model for product recommendations |
-| 🛍️ **Qist Bazar** *(Play Store)* | `Flutter · Firebase` | Instalment-based shopping app with Firebase auth and payment plan calculator |
 | 🚗 **ChaloBetho** | `Flutter · REST APIs` | Carpooling app with live map, seat selection, and driver/rider role management |
 
 ---
