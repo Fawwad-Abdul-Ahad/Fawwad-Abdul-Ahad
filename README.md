@@ -15,10 +15,9 @@
 
 <br/>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawwad-abdul-ahad-761816291)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawwadabdulaad500@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fawwad-Abdul-Ahad/Fawwad-Abdul-Ahad)
 
 <img src="https://komarev.com/ghpvc/?username=Fawwad-Abdul-Ahad&label=visitors&color=00ff41&style=flat-square&labelColor=0d1117" />
 
@@ -50,7 +49,10 @@ expertise = {
     "web"             : ["React.js", "Next.js", "Node.js", "FastAPI"],
     "ai_engineering"  : ["RAG Pipelines", "LangChain", "LangGraph", "VectorDB"],
     "llm_&_genai"     : ["OpenAI API", "HuggingFace", "Transformers", "Prompt Engineering"],
-    "deep_learning"   : ["PyTorch", "TensorFlow", "NLP", "Text Classification", "NER"],
+    "machine_learning" : ["Regression", "Classification", "Clustering", "Prediction", "Model Evaluation",
+                          "Feature Engineering", "Hyperparameter Tuning", "Cross-Validation",
+                          "Scikit-learn", "XGBoost", "Random Forest", "SVM", "Decision Trees"],
+    "deep_learning"   : ["PyTorch", "TensorFlow", "NLP", "Text Classification", "NER", "Sentiment Analysis"],
     "computer_vision" : ["YOLO", "DINOv2", "OpenCV", "ONNX", "Siamese Networks"],
     "databases"       : ["MongoDB", "PostgreSQL", "Firebase", "pgvector"],
     "cloud"           : ["AWS S3", "Vercel", "Firebase Hosting"],
@@ -86,6 +88,8 @@ expertise = {
 
 **AI · GenAI · LLMs · Computer Vision**
 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -143,7 +147,7 @@ expertise = {
 
 <div align="center">
 
-`📍 Karachi, Pakistan` &nbsp;|&nbsp; `📧 fawwadabdulahad@gmail.com` &nbsp;|&nbsp; `🟢 Open to collaborations`
+`📍 Karachi, Pakistan` &nbsp;|&nbsp; `📧 fawwadabdulaad500@gmail.com` &nbsp;|&nbsp; `🟢 Open to collaborations`
 
 *"Building intelligent systems that make a real-world impact."*
 
