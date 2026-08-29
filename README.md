@@ -1,12 +1,12 @@
 <div align="center">
 
 <pre>
-                ███████╗ █████╗ ██╗    ██╗██╗    ██╗ █████╗ ██████╗ 
-                ██╔════╝██╔══██╗██║    ██║██║    ██║██╔══██╗██╔══██╗
-                █████╗  ███████║██║ █╗ ██║██║ █╗ ██║███████║██║  ██║
-                ██╔══╝  ██╔══██║██║███╗██║██║███╗██║██╔══██║██║  ██║
-                ██║     ██║  ██║╚███╔███╔╝╚███╔███╔╝██║  ██║██████╔╝
-                ╚═╝     ╚═╝  ╚═╝ ╚══╝╚══╝  ╚══╝╚══╝╚═╝  ╚═╝╚═════╝ 
+                    ███████╗ █████╗ ██╗    ██╗██╗    ██╗ █████╗ ██████╗ 
+                    ██╔════╝██╔══██╗██║    ██║██║    ██║██╔══██╗██╔══██╗
+                    █████╗  ███████║██║ █╗ ██║██║ █╗ ██║███████║██║  ██║
+                    ██╔══╝  ██╔══██║██║███╗██║██║███╗██║██╔══██║██║  ██║
+                    ██║     ██║  ██║╚███╔███╔╝╚███╔███╔╝██║  ██║██████╔╝
+                    ╚═╝     ╚═╝  ╚═╝ ╚══╝╚══╝  ╚══╝╚══╝╚═╝  ╚═╝╚═════╝ 
 </pre>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=%24+whoami+--+Flutter+%26+Full+Stack+Developer;%24+stack+--+Flutter+%7C+MERN+%7C+GenAI;%24+skills+--+LangChain+%7C+PyTorch+%7C+YOLO;%24+vision+--+Computer+Vision+%7C+DINOv2+%7C+NLP;%24+status+--+Building+high-performance+mobile+apps+%F0%9F%9F%A2)](https://git.io/typing-svg)
@@ -54,10 +54,12 @@ Currently working at **Synapse Tech Inc., Karachi** · BSc Software Engineering 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![VectorDB](https://img.shields.io/badge/VectorDB-7C3AED?style=for-the-badge&logo=pinecone&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
