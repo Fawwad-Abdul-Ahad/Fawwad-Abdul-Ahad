@@ -1,50 +1,197 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fawwad Abdul Ahad
-=========================================================================================================================================
+<div align="center">
 
-Flutter Developer
------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0e7490&height=200&section=header&text=Fawwad%20Abdul%20Ahad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20AI%20Developer&descAlignY=58&descSize=18&descColor=bae6fd" width="100%"/>
 
-Hello fellow developers and tech experts! I'm Fawwad Abdul Ahad, a versatile developer specializing in both Flutter and frontend technologies like HTML, CSS, and JavaScript. My GitHub showcases a wide range of projects, from stunning mobile applications to dynamic and responsive websites, all built with a focus on clean code, performance, and user-friendly design. With Flutter, I build cross-platform mobile apps that are visually appealing and function seamlessly on iOS and Android. My frontend expertise in HTML, CSS, and JavaScript allows me to create beautiful, responsive web interfaces that offer an engaging user experience. I’m always exploring new tools and techniques to enhance my skills and deliver high-quality solutions. Feel free to check out my projects, follow, or collaborate with me. Let’s create something extraordinary together!
+<br/>
 
-* 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [Fawwad's Portfolio](http://https://fawwad-personal-portfolio.netlify.app/)
-* ✉️  You can contact me at [fawwadabdulahad@gmail.com](mailto:fawwadabdulahad@gmail.com)
-* 🧠  I'm learning Stacked and Provider
-* 🤝  I'm open to collaborating on E-commerce app, Chat Application
-* ⚡  Ask me about Dart, Flutter
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=MERN+Stack+%7C+Flutter+%7C+AI%2FML+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Express;HuggingFace+%7C+TensorFlow+%7C+LangChain;Building+intelligent+full-stack+products)](https://git.io/typing-svg)
 
-<a href="https://www.github.com/Fawwad-Abdul-Ahad" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Fawwad-Abdul-Ahad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<br/>
 
-### Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fawwad-abdulahad-761816291)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawwadabdulahad@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://fawwad-personal-portfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fawwad-Abdul-Ahad)
 
+<img src="https://komarev.com/ghpvc/?username=Fawwad-Abdul-Ahad&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile views" />
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
+</div>
 
+---
 
-### Socials
+## 👨‍💻 About Me
 
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100046346649424" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Fawwad-Abdul-Ahad" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/flutter._.master" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/fawwad-abdul-ahad-761816291/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+```typescript
+const fawwad = {
+  role:       "Full Stack Web & AI Developer",
+  company:    "Synapse Tech Inc. — Karachi, Pakistan",
+  education:  "BSc Software Engineering @ University of Karachi (2024–2028)",
+  stacks:     ["MERN", "Next.js", "Flutter", "FastAPI", "LangGraph"],
+  ai_ml:      ["HuggingFace Transformers", "TensorFlow/Keras", "NLP", "Deep Learning"],
+  databases:  ["MongoDB", "PostgreSQL", "Firebase", "MySQL"],
+  cloud:      ["AWS S3", "Vercel", "Firebase Hosting"],
+  currently:  "Shipping AI-powered products end-to-end 🚀",
+  available:  true,
+};
+```
 
-### Badges
+> Results-driven developer who bridges **modern web & mobile development** with **intelligent AI systems** — from responsive React/Flutter UIs and robust Node.js APIs, to deep learning pipelines, NLP chatbots, and transformer-based models.
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Fawwad-Abdul-Ahad"><img src="https://github-readme-stats.vercel.app/api?username=Fawwad-Abdul-Ahad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Fawwad-Abdul-Ahad's GitHub stats" /></a>
+## 🛠️ Tech Stack
 
-<a href="http://www.github.com/Fawwad-Abdul-Ahad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fawwad-Abdul-Ahad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
 
-<a href="http://www.github.com/Fawwad-Abdul-Ahad"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Fawwad-Abdul-Ahad&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<a href="https://github.com/Fawwad-Abdul-Ahad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawwad-Abdul-Ahad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<b>Top Repositories</b>
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-<div width="100%" align="center"><a href="https://github.com/Fawwad-Abdul-Ahad/newsapp_flutter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fawwad-Abdul-Ahad&repo=newsapp_flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Fawwad-Abdul-Ahad/chatapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fawwad-Abdul-Ahad&repo=chatapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### AI / ML & NLP
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Support Me
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<ul style="list-style-type: none; margin: 0;">
-</ul>
+### Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Synapse Tech Inc.
+**Full Stack Web & AI Developer** · *Jun 2025 – Present*
+
+- 🛒 Architected full-featured eCommerce app (React + Node.js) + Flutter companion app — solo
+- 🤖 Deployed NLP chatbot using HuggingFace transformer models for automated customer support
+- 🧠 Built deep learning recommendation & forecasting modules (TensorFlow/Keras)
+- ☁️ Integrated AWS S3 for storage, Vercel for CI/CD, JWT for auth
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 110 Solutions
+**Full Stack Developer** · *Oct 2024 – Jun 2025*
+
+- 📱 Built cross-platform Flutter apps: Chat App, Food Delivery App, Product Scanning App
+- 🌐 Developed iRecruit (React.js + Node.js APIs) & Opira AI assistant (Next.js + OpenAI)
+- 🔐 Implemented JWT auth & role-based access control across multiple platforms
+- ⚡ Agile sprints, code reviews, API documentation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Renexus Resources
+**Frontend & Flutter Developer** · *Sep 2024 – Oct 2024*
+
+- 🚗 Built Uber-like ride-hailing app in Flutter with real-time location tracking
+- 🚌 Developed ChaloBetho — carpooling app with live map integration
+- 🎨 Converted Figma designs into pixel-perfect React & Flutter UIs
+- 🔗 Integrated REST APIs with Python/Laravel backends
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Education
+**BSc Software Engineering**
+University of Karachi · *2024 – 2028*
+
+**Pre-Engineering**
+DJ Science College, Karachi · *2022 – 2024*
+
+**Certifications**
+- 🏅 Flutter Development — Jawan Pakistan
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Description | Link |
+|---------|-------|-------------|------|
+| **🛒 eCommerce Platform** | React.js · Node.js · Flutter · MongoDB · AWS S3 | Full-stack web + mobile eCommerce with JWT auth, product management, and CI/CD | — |
+| **🤖 NLP Chatbot** | Python · HuggingFace · Flask · React.js | Fine-tuned transformer chatbot with intent classification, NER & multi-turn dialogue | — |
+| **🧠 iRecruit** | React.js · Node.js · Laravel | Recruitment automation platform with dynamic dashboards and API-driven data flow | [i-recruit.io](https://i-recruit.io/) |
+| **💬 Opira AI Assistant** | Next.js · Node.js · OpenAI API | ChatGPT-like AI chat app with message streaming and real-time conversational AI | [opira.io](https://opira.io/home) |
+| **🗣️ Conversaction.ai** | React.js · Python · Laravel | AI-powered conversation workflow web app with API-integrated backend | [conversaction.io](https://conversaction.ai/) |
+| **📦 Deep Learning Rec. Engine** | Python · TensorFlow · MongoDB | Collaborative filtering + content-based deep learning model for product recommendations | — |
+| **🛍️ Qist Bazar** *(Live on Play Store)* | Flutter · Firebase | Instalment-based shopping app with Firebase auth and payment plan calculator | Play Store |
+| **🚗 ChaloBetho** | Flutter · REST APIs | Carpooling app with live map, seat selection, and driver/rider role management | — |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fawwad-Abdul-Ahad&show_icons=true&count_private=true&title_color=0891b2&text_color=e2e8f0&icon_color=0891b2&bg_color=0f172a&hide_border=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawwad-Abdul-Ahad&langs_count=8&layout=compact&title_color=0891b2&text_color=e2e8f0&icon_color=0891b2&bg_color=0f172a&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fawwad-Abdul-Ahad&stroke=e2e8f0&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=e2e8f0&currStreakLabel=0891b2&sideNums=e2e8f0&sideLabels=e2e8f0&dates=94a3b8&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Fawwad-Abdul-Ahad&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:0891b2&height=120&section=footer&text=Let%27s%20build%20something%20extraordinary&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+
+**📍 Karachi, Pakistan &nbsp;|&nbsp; 📧 fawwadabdulahad@gmail.com &nbsp;|&nbsp; 🌐 Open to collaborations & opportunities**
+
+</div>
